@@ -17,7 +17,7 @@
     c) And the messages contain topic codes (x, y or z) 
 3.	How a user can make a streaming subscription for news (via AWS message queue):
       
-    **sqsQueueSubscribeNewsFiltered ** 
+   **sqsQueueSubscribeNewsFiltered** 
 
     a) Where he messages are tagged with PermIds (1, 2, 3, 4)
      **
