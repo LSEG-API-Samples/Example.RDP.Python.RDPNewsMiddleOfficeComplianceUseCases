@@ -2,7 +2,7 @@
 
 ## Middle Office Compliance Use Case Code Samples
 
-1. 	How a user can pass along a large list of CUSIP, ISIN and or SEDOLs and retrieve a company PermID | OrgName and status as an API response or as a bulk file
+1. 	How a user can pass along a large list of CUSIP, ISIN and or SEDOLs and retrieve a company PermID | OrgName and status as an API response or as a bulk file:
 
     **Map2kSEDOLs_SymbologyDataLibEndpoint.ipynb and Map2kSEDOLs_SymbologyDataLibSearch.ipynb**
     
