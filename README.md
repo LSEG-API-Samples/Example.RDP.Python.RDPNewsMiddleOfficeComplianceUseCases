@@ -10,7 +10,7 @@
     b) The messages are tagged with PermIds (1, 2, 3, 4)
     
     c) And the messages contain topic codes (x, y or z) 
-3.	How a user can make a streaming subscription for news:
+3.	How a user can make a streaming subscription for news:     HeadlinesLast24HrsPermidsTopics_NewsRDPAPI.ipynb
 
     a) Where he messages are tagged with PermIds (1, 2, 3, 4)
     
